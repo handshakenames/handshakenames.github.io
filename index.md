@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Handshake names. Vist https://namebase.io
+title: Handshake names. Visit https://namebase.io
 tagline: Available for sale
 description: 
 ---
